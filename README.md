@@ -3,7 +3,7 @@
 ```mermaid
 flowchart TD
 
-A[ /\
+A["
 | |
 | |
 | |
@@ -11,6 +11,7 @@ A[ /\
 | |
 | |
 | |
-___ ] --> B{Right}
+___"] --> B{Right}
 A --> C{Left}
+markdown --> newLines
 ```
