@@ -1,9 +1,17 @@
 # pedrolibrais_1
 
 ```mermaid
-flowchart LR
+flowchart TD
 
-A{Options} --> |Already know| B[Kodular]
-A -->|Seems to give a lot more freedom| C[Kotlin]
-A -->|Older than Kodular so more plugins| D[App Inventos]
+A[ .
+
+
+
+
+
+
+
+_ ] --> B{Right}
+A --> C{Left}
+markdown --> newLines
 ```
